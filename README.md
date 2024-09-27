@@ -58,8 +58,8 @@ select avg(rating) as AVG_Rating from Blinkit_Data;
 - Run flash sales or limited-time promotions on popular products, especially during peak times like weekends or holidays.
 - Collaborate with local farmers, artisans, or specialty food vendors to offer unique, local products that are exclusive to Blinkit.
 ### Project Phases and Milestones:
-- Data Collection and Preparation: May 2024
-- Dashboard Design and Development: July 2024
+- Data Collection and Preparation: October 2023- November 2023
+- Dashboard Design and Development: December 2023- February 2024
 ## Report Snapshots (Power BI Desktop)
 
 ![Screenshot 2024-09-26 215535](https://github.com/user-attachments/assets/e1ff88b0-a152-4051-a246-003b41a5445d)
